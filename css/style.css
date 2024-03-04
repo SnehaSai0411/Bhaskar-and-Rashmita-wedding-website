@@ -697,6 +697,7 @@ a {
   /* Create an active/current tablink class */
   .tab button.active {
 	background-color: #674ea7;
+	  font-size : 14px;
   color:white;
   }
   
@@ -729,7 +730,7 @@ a {
 	  /* 3x smaller when screen width decreases */
     }
 	.tab button {
-		font-size: 14px;
+		font-size: 10px;
 		padding: 7px 9px
 	}
   }
